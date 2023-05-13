@@ -1,5 +1,6 @@
 # 入门篇
 
+- [南大pascal实验室静态分析课程](https://tai-e.pascal-lab.net/lectures.html)
 - [（一）初识软件分析](https://www.blog-blockchain.xyz/pl/understanding-program-analysis/)
 - [（二）数据流分析基础](https://www.blog-blockchain.xyz/pl/data-flow-analysis/)
 - [（三）Datalog和程序分析](https://www.blog-blockchain.xyz/pl/LP-souffle/)
@@ -9,13 +10,62 @@
 - [（七）抽象解释](https://www.blog-blockchain.xyz/pl/abstract-interpretation/)
 - [（八）SMT和符号执行](https://www.blog-blockchain.xyz/pl/SMT-and-symbolic-excution/)
 - [（九）体验静态分析工具](https://www.blog-blockchain.xyz/pl/static-analysis-tools/)
+- [自动化漏洞挖掘：静态程序分析入门【上】](https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg%3D%3D&mid=2247487087&idx=1&sn=4ce42ac78f232a7d3fce13d6ed06c44e&chksm=fa58ac54cd2f254205e557f4cc9f5857d2a384bc89a36b15bf87212d50f52c2d51a8cef3c34f&scene=21&ref=www.ctfiot.com#wechat_redirect)
+- [自动化漏洞挖掘：静态程序分析入门【下】](https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg==&mid=2247487251&idx=1&sn=abef948993e7a1a3ddd7afc91d670429&chksm=fa58ad28cd2f243e96207bcf0f347e8e76b5cf808dd5002e0398eb16d176abeb178728599585&cur_album_id=2678810689347715073&scene=189#wechat_redirect)
 
 # 工具篇
 
 ## soot
 
+### 项目简介
+
+soot 是 Java 优化框架。它提供了四个用于分析和转换 Java 字节码的中间表示：
+- BAF：易于操纵的字节码的简化表示。 
+- Jimple：一个适合优化的打字3个地址中间表示。 
+- Shimple：Jimple的SSA变体。 
+- grimp：jimple的汇总版本，适用于代码和代码检查。
+
+### 项目地址
+
+项目地址：[https://github.com/soot-oss/soot](https://github.com/soot-oss/soot)
+
+### 相关资料
+
 - [Soot使用笔记](https://www.cnblogs.com/xine/p/14511818.html)
 - [Soot使用记录](https://jckling.github.io/2022/02/23/Other/Soot%20%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/)
+- [Android Taint Flow Analysis for App Sets](http://www.cs.tau.ac.il/~msagiv/courses/pa15-16/Static%20Analysis%20of%20Java%20and%20Soot.pdf)
+
+
+## tabby
+
+### 项目简介
+
+TABBY 是一款针对 Java 语言的静态代码分析工具，相关工作已被接收发表在 The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2023)，会议论文录用名单详见DSN2023。
+TABBY使用静态分析框架 Soot 作为语义提取工具，将JAR/WAR/CLASS文件转化为代码属性图。 并使用 Neo4j 图数据库来存储生成的代码属性图CPG。
+
+### 项目地址
+
+项目地址：[https://github.com/wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby)
+
+### 相关资料
+
+- [基于代码属性图的自动化漏洞挖掘实践](https://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/)
+- [如何高效的挖掘Java反序列化利用链？](https://blog.0kami.cn/blog/2021/how_to_find_gadget_chains/)
+- [如何高效地捡漏反序列化利用链？](https://blog.0kami.cn/blog/2021/how_to_find_gadget_chains_2/)
+
+## ByteCodeDL
+
+### 项目简介
+
+ByteCodeDL这个名字是从CodeQL演化的，ByteCode对应Code，DL对应QL，是一款声明式静态分析工具，主要是为了弥补CodeQL无法直接分析字节码的遗憾。
+
+本项目主要有两个目的：
+- 教学目的，帮助大家入门静态分析，本项目将演示如何通过datalog实现一些静态分析算法，比起命令式静态分析，这种方式要简洁很多，学习了基本原理之后，也可以自己DIY规则。
+- 提高挖洞效率，安全研究人员一般拿不到源码，大多数情况只能分析Jar包，然后通过IDEA看反编译之后的代码，效率比较低，希望ByteCodeDL提供的搜索功能、调用图分析功能、污点分析功能，能够提高安全研究人员的挖洞效率。
+
+### 项目地址
+
+项目地址：[https://github.com/BytecodeDL/ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL)
 
 ## 按语言分
 
