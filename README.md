@@ -31,6 +31,7 @@ soot 是 Java 优化框架。它提供了四个用于分析和转换 Java 字节
 
 ### 相关资料
 
+- [Soot Tutorials](https://github.com/soot-oss/soot/wiki/Tutorials)
 - [Soot, a Tool for Analyzing and Transforming Java Bytecode](https://www.sable.mcgill.ca/soot/tutorial/pldi03/tutorial.pdf)
 - [A beginner’s guide to static program analysis using Soot](https://noidsirius.medium.com/a-beginners-guide-to-static-program-analysis-using-soot-5aee14a878d)
 - [Soot使用笔记](https://www.cnblogs.com/xine/p/14511818.html)
