@@ -1,15 +1,16 @@
 # 入门篇
 
 - [南大pascal实验室静态分析课程](https://tai-e.pascal-lab.net/lectures.html)
-- [（一）初识软件分析](https://www.blog-blockchain.xyz/pl/understanding-program-analysis/)
-- [（二）数据流分析基础](https://www.blog-blockchain.xyz/pl/data-flow-analysis/)
-- [（三）Datalog和程序分析](https://www.blog-blockchain.xyz/pl/LP-souffle/)
-- [（四）静态单赋值和稀疏分析](https://www.blog-blockchain.xyz/pl/ssa-and-sparse-analysis/)
-- [（五）过程间分析](https://www.blog-blockchain.xyz/pl/Interprocedural-DFA/)
-- [（六）指向分析](https://www.blog-blockchain.xyz/pl/points-to-analysis/)
-- [（七）抽象解释](https://www.blog-blockchain.xyz/pl/abstract-interpretation/)
-- [（八）SMT和符号执行](https://www.blog-blockchain.xyz/pl/SMT-and-symbolic-excution/)
-- [（九）体验静态分析工具](https://www.blog-blockchain.xyz/pl/static-analysis-tools/)
+- 一个小哥写的博客，可以作为静态程序分析的入门
+  - [（一）初识软件分析](https://www.blog-blockchain.xyz/pl/understanding-program-analysis/)
+  - [（二）数据流分析基础](https://www.blog-blockchain.xyz/pl/data-flow-analysis/)
+  - [（三）Datalog和程序分析](https://www.blog-blockchain.xyz/pl/LP-souffle/)
+  - [（四）静态单赋值和稀疏分析](https://www.blog-blockchain.xyz/pl/ssa-and-sparse-analysis/)
+  - [（五）过程间分析](https://www.blog-blockchain.xyz/pl/Interprocedural-DFA/)
+  - [（六）指向分析](https://www.blog-blockchain.xyz/pl/points-to-analysis/)
+  - [（七）抽象解释](https://www.blog-blockchain.xyz/pl/abstract-interpretation/)
+  - [（八）SMT和符号执行](https://www.blog-blockchain.xyz/pl/SMT-and-symbolic-excution/)
+  - [（九）体验静态分析工具](https://www.blog-blockchain.xyz/pl/static-analysis-tools/)
 - [自动化漏洞挖掘：静态程序分析入门【上】](https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg%3D%3D&mid=2247487087&idx=1&sn=4ce42ac78f232a7d3fce13d6ed06c44e&chksm=fa58ac54cd2f254205e557f4cc9f5857d2a384bc89a36b15bf87212d50f52c2d51a8cef3c34f&scene=21&ref=www.ctfiot.com#wechat_redirect)
 - [自动化漏洞挖掘：静态程序分析入门【下】](https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg==&mid=2247487251&idx=1&sn=abef948993e7a1a3ddd7afc91d670429&chksm=fa58ad28cd2f243e96207bcf0f347e8e76b5cf808dd5002e0398eb16d176abeb178728599585&cur_album_id=2678810689347715073&scene=189#wechat_redirect)
 
