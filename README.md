@@ -84,8 +84,8 @@ ByteCodeDL这个名字是从CodeQL演化的，ByteCode对应Code，DL对应QL，
 
 ### 相关资料
 
-- [JavaParser: per generare, modificare e analizzare codice Java](https://tomassetti.me/wp-content/uploads/2017/12/JavaParser-JUG-Milano.pdf)
-- [官方文档 JavaParser: Visited](https://leanpub.com/javaparservisited)
+- [JavaParser: per generare, modificare e analizzare codice Java](https://tomassetti.me/wp-content/uploads/2017/12/JavaParser-JUG-Milano.pdf) *JavaParser介绍的PPT，可以做一个入门学习*
+- [JavaParser: Visited](https://leanpub.com/javaparservisited) *官方出版的文档，可以免费下载*
 
 ## 按语言分
 
