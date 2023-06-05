@@ -74,7 +74,18 @@ ByteCodeDL这个名字是从CodeQL演化的，ByteCode对应Code，DL对应QL，
 
 ## JavaParser
 
+### 项目简介
+
+支持将java代码转化为AST语法树。
+
+### 项目地址
+
+项目地址：[https://github.com/javaparser/javaparser](https://github.com/javaparser/javaparser)
+
+### 相关资料
+
 - [JavaParser: per generare, modificare e analizzare codice Java](https://tomassetti.me/wp-content/uploads/2017/12/JavaParser-JUG-Milano.pdf)
+- [官方文档 JavaParser: Visited](https://leanpub.com/javaparservisited)
 
 ## 按语言分
 
