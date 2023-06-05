@@ -72,6 +72,10 @@ ByteCodeDL这个名字是从CodeQL演化的，ByteCode对应Code，DL对应QL，
 
 项目地址：[https://github.com/BytecodeDL/ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL)
 
+## JavaParser
+
+- [JavaParser: per generare, modificare e analizzare codice Java](https://tomassetti.me/wp-content/uploads/2017/12/JavaParser-JUG-Milano.pdf)
+
 ## 按语言分
 
 ### Python
