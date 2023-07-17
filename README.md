@@ -1,6 +1,7 @@
 # 入门篇
 
 - [南大pascal实验室静态分析课程](https://tai-e.pascal-lab.net/lectures.html)
+- [静态分析 - 基于南京大学软件分析课程的静态分析基础教程](https://static-analysis.cuijiacai.com/)
 - 一个小哥写的博客，可以作为静态程序分析的入门
   - [（一）初识软件分析](https://www.blog-blockchain.xyz/pl/understanding-program-analysis/)
   - [（二）数据流分析基础](https://www.blog-blockchain.xyz/pl/data-flow-analysis/)
