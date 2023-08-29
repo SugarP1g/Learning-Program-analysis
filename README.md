@@ -61,6 +61,18 @@ TABBY使用静态分析框架 Soot 作为语义提取工具，将JAR/WAR/CLASS�
 - [如何高效的挖掘Java反序列化利用链？](https://blog.0kami.cn/blog/2021/how_to_find_gadget_chains/)
 - [如何高效地捡漏反序列化利用链？](https://blog.0kami.cn/blog/2021/how_to_find_gadget_chains_2/)
 
+## joern
+
+### 项目地址
+
+项目地址：[https://joern.io/](https://joern.io/)
+
+### 相关资料
+
+- [Joern与CPG是什么？](https://lorexxar.cn/2023/08/21/joern-and-cpg/)
+- [深入浅出Joern（二）CPG与图数据库](https://lorexxar.cn/2023/08/22/joern2/)
+- [深入浅出Joern（三）Joern和Neo4j常用语法大全](https://lorexxar.cn/2023/08/24/joern3/)
+
 ## ByteCodeDL
 
 ### 项目简介
