@@ -43,6 +43,25 @@ soot 是 Java 优化框架。它提供了四个用于分析和转换 Java 字节
 - [Soot使用记录](https://jckling.github.io/2022/02/23/Other/Soot%20%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/)
 - [Android Taint Flow Analysis for App Sets](http://www.cs.tau.ac.il/~msagiv/courses/pa15-16/Static%20Analysis%20of%20Java%20and%20Soot.pdf)
 
+## SootUp
+
+### 项目简介
+
+- 将 JVM 字节码（和其他输入）转换为中间表示 Jimple
+- 提供类层次结构生成
+- 使用不同算法/精度生成 CallGraph
+- 使用 Heros 支持的 IDE/IFDS 框架进行过程间数据流分析
+- 在检索方法主体时应用/启用简单转换（请参阅 BodyInterceptor）
+- 提供 Jimple IR 的序列化。
+
+### 项目地址
+
+项目地址：[https://github.com/soot-oss/SootUp](https://github.com/soot-oss/SootUp)
+
+### 相关资料
+
+- [SootUp官方文档](https://soot-oss.github.io/SootUp/)
+
 ## tai-e
 
 ### 项目简介
