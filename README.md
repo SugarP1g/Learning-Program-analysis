@@ -43,6 +43,13 @@ soot 是 Java 优化框架。它提供了四个用于分析和转换 Java 字节
 - [Soot使用记录](https://jckling.github.io/2022/02/23/Other/Soot%20%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/)
 - [Android Taint Flow Analysis for App Sets](http://www.cs.tau.ac.il/~msagiv/courses/pa15-16/Static%20Analysis%20of%20Java%20and%20Soot.pdf)
 
+## tai-e
+
+### 项目简介
+
+### 相关资料
+
+- [Java静态分析框架Tai-e的简单使用](https://y4er.com/posts/simple-use-of-the-java-static-analysis-framework-tai-e/)
 
 ## tabby
 
@@ -60,6 +67,7 @@ TABBY使用静态分析框架 Soot 作为语义提取工具，将JAR/WAR/CLASS�
 - [基于代码属性图的自动化漏洞挖掘实践](https://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/)
 - [如何高效的挖掘Java反序列化利用链？](https://blog.0kami.cn/blog/2021/how_to_find_gadget_chains/)
 - [如何高效地捡漏反序列化利用链？](https://blog.0kami.cn/blog/2021/how_to_find_gadget_chains_2/)
+- [tabby原理分析](https://tttang.com/archive/1696/)
 
 ## joern
 
@@ -86,6 +94,10 @@ ByteCodeDL这个名字是从CodeQL演化的，ByteCode对应Code，DL对应QL，
 ### 项目地址
 
 项目地址：[https://github.com/BytecodeDL/ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL)
+
+### 相关资料
+
+- [ByteCodeDL 学习](https://y4er.com/posts/bytecodedl/)
 
 ## JavaParser
 
