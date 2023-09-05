@@ -61,6 +61,7 @@ soot 是 Java 优化框架。它提供了四个用于分析和转换 Java 字节
 ### 相关资料
 
 - [SootUp官方文档](https://soot-oss.github.io/SootUp/)
+- [Inter-procedural Data-flow Analysis with IFDS/IDE and Soot](https://www.bodden.de/pubs/bodden12inter-procedural.pdf)
 
 ## tai-e
 
