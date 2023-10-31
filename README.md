@@ -107,6 +107,8 @@ TABBY使用静态分析框架 Soot 作为语义提取工具，将JAR/WAR/CLASS�
 - [深入浅出Joern（一）Joern与CPG是什么？](https://lorexxar.cn/2023/08/21/joern-and-cpg/)
 - [深入浅出Joern（二）CPG与图数据库](https://lorexxar.cn/2023/08/22/joern2/)
 - [深入浅出Joern（三）Joern和Neo4j常用语法大全](https://lorexxar.cn/2023/08/24/joern3/)
+- [深入浅出Joern（四）不常用语法大全](https://lorexxar.cn/2023/10/20/joern4/)
+- [Joern In RealWorld (1) - Acutators + CVE-2022-21724](https://lorexxar.cn/2023/08/31/joerninrw/)
 
 ## ByteCodeDL
 
