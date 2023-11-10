@@ -145,6 +145,24 @@ ByteCodeDL这个名字是从CodeQL演化的，ByteCode对应Code，DL对应QL，
 - [JavaParser: per generare, modificare e analizzare codice Java](https://tomassetti.me/wp-content/uploads/2017/12/JavaParser-JUG-Milano.pdf) *JavaParser介绍的PPT，可以做一个入门学习*
 - [JavaParser: Visited](https://leanpub.com/javaparservisited) *官方出版的文档，可以免费下载*
 
+## SemGrep
+
+### 项目简介
+
+Semgrep 是一个快速、开源的静态代码分析工具，其核心采用 OCaml 语言编写。主要用于在 Commit 和 CI 时查找 Bug 并强制执行代码规范。其中 Semgrep 除了提供 Semgrep CLI 还有 Semgrep CI、Semgrep App 等。但由于 Semgrep App 社区版本有 20 个人数限制，且不支持私有的 Gitlab。故下面的介绍内容全部是基于 Semgrep CLI。
+
+### 项目地址
+
+项目地址：[https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)
+
+官方规则仓：[https://github.com/semgrep/semgrep-rules](https://github.com/semgrep/semgrep-rules)
+
+### 相关资料
+
+- [Semgrep 之初识（一）](https://zhuanlan.zhihu.com/p/564405681)
+- [Semgrep 之模式语法（二）](https://zhuanlan.zhihu.com/p/564408957)
+- [Semgrep 之规则语法（三）](https://zhuanlan.zhihu.com/p/564409664)
+
 ## 按语言分
 
 ### Python
