@@ -16,13 +16,13 @@
 
 ## 南大《软件分析》课程
 
-### 课程视频
+### 课程视频&课件
 
-- [《软件分析》课程Bilibili](https://www.bilibili.com/video/BV1b7411K7P4/?spm_id_from=333.788&vd_source=1479cad24a18f824b591c55f9296459b)
+- [课程主页-包含课件和视频地址](https://tai-e.pascal-lab.net/lectures.html)
 
 ### 实验作业
 
-- [南大pascal实验室静态分析课程](https://tai-e.pascal-lab.net/lectures.html)
+- [实验作业](https://tai-e.pascal-lab.net/intro/overview.html)
 
 ### 配套文档
 
