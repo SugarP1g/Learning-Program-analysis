@@ -1,8 +1,5 @@
 # 入门篇
 
-- [南大pascal实验室静态分析课程](https://tai-e.pascal-lab.net/lectures.html)
-- [静态分析 - 基于南京大学软件分析课程的静态分析基础教程](https://static-analysis.cuijiacai.com/)
-- [【南京大学-软件分析】课程笔记](https://fynch3r.github.io/%E3%80%90%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6-%E8%BD%AF%E4%BB%B6%E5%88%86%E6%9E%90%E3%80%91%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/)
 - 一个小哥写的博客，可以作为静态程序分析的入门
   - [（一）初识软件分析](https://www.blog-blockchain.xyz/pl/understanding-program-analysis/)
   - [（二）数据流分析基础](https://www.blog-blockchain.xyz/pl/data-flow-analysis/)
@@ -16,6 +13,22 @@
 - [自动化漏洞挖掘：静态程序分析入门【上】](https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg%3D%3D&mid=2247487087&idx=1&sn=4ce42ac78f232a7d3fce13d6ed06c44e&chksm=fa58ac54cd2f254205e557f4cc9f5857d2a384bc89a36b15bf87212d50f52c2d51a8cef3c34f&scene=21&ref=www.ctfiot.com#wechat_redirect)
 - [自动化漏洞挖掘：静态程序分析入门【下】](https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg==&mid=2247487251&idx=1&sn=abef948993e7a1a3ddd7afc91d670429&chksm=fa58ad28cd2f243e96207bcf0f347e8e76b5cf808dd5002e0398eb16d176abeb178728599585&cur_album_id=2678810689347715073&scene=189#wechat_redirect)
 - [2023 SDC 议题回顾 | JDoop：下一代针对Java Web应用的静态分析框架](https://mp.weixin.qq.com/s/90AbTF1o1C26a87aXIu2JQ)
+
+## 南大《软件分析》课程
+
+### 课程视频
+
+- [《软件分析》课程Bilibili](https://www.bilibili.com/video/BV1b7411K7P4/?spm_id_from=333.788&vd_source=1479cad24a18f824b591c55f9296459b)
+
+### 实验作业
+
+- [南大pascal实验室静态分析课程](https://tai-e.pascal-lab.net/lectures.html)
+
+### 配套文档
+
+- [静态分析 - 基于南京大学软件分析课程的静态分析基础教程](https://static-analysis.cuijiacai.com/)
+- [【南京大学-软件分析】课程笔记](https://fynch3r.github.io/%E3%80%90%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6-%E8%BD%AF%E4%BB%B6%E5%88%86%E6%9E%90%E3%80%91%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/)
+- [Static Program Analysis Book](https://ranger-nju.gitbook.io/static-program-analysis-book/)
 - [NJU静态程序分析(0-Introduction)](https://haotianmichael.github.io/2021/05/02/NJU%E9%9D%99%E6%80%81%E7%A8%8B%E5%BA%8F%E5%88%86%E6%9E%90-0-Introduction/)
 
 # 工具篇
