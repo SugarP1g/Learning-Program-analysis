@@ -22,7 +22,7 @@
 
 ### 实验作业
 
-- [实验作业](https://tai-e.pascal-lab.net/intro/overview.html)
+- [《软件分析》课程实验作业平台](https://tai-e.pascal-lab.net/intro/overview.html)
 
 ### 配套文档
 
