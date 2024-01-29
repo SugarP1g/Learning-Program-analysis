@@ -93,6 +93,12 @@ soot 是 Java 优化框架。它提供了四个用于分析和转换 Java 字节
 - [Java静态分析框架Tai-e的简单使用](https://y4er.com/posts/simple-use-of-the-java-static-analysis-framework-tai-e/)
 - [tai-e教学版实验作业](https://tai-e.pascal-lab.net/intro/overview.html)
 
+## Doop
+
+### 项目地址
+
+项目地址：[https://bitbucket.org/yanniss/doop/src/master/](https://bitbucket.org/yanniss/doop/src/master/)
+
 ## tabby
 
 ### 项目简介
