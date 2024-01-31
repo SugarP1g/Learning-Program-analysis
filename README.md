@@ -194,3 +194,4 @@ Semgrep 是一个快速、开源的静态代码分析工具，其核心采用 OC
 
 - [Python程序分析工具调研](https://jckling.github.io/2021/12/30/Security/Python%20%E7%A8%8B%E5%BA%8F%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E8%B0%83%E7%A0%94/)
 - [柏林洪堡大学 | 基于深度学习的Python代码漏洞检测 （IST 2022）](https://mp.weixin.qq.com/s/dxpvnt_dHPc92pw4J5bZww)
+- [Python 程序分析工具调研](https://jckling.github.io/2021/12/30/Security/Python%20%E7%A8%8B%E5%BA%8F%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E8%B0%83%E7%A0%94/)
