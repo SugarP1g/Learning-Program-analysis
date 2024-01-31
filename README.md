@@ -99,6 +99,12 @@ soot 是 Java 优化框架。它提供了四个用于分析和转换 Java 字节
 
 项目地址：[https://bitbucket.org/yanniss/doop/src/master/](https://bitbucket.org/yanniss/doop/src/master/)
 
+### 相关资料
+
+- [LogiQL 入门](https://jckling.github.io/2021/10/26/Other/LogiQL%20%E5%85%A5%E9%97%A8/)
+- [Datalog 引擎 Soufflé 指南](https://jckling.github.io/2021/11/22/Other/Datalog%20%E5%BC%95%E6%93%8E%20Souffl%C3%A9%20%E6%8C%87%E5%8D%97/)
+- [指针分析工具 Doop 使用指南](https://jckling.github.io/2021/12/17/Security/%E6%8C%87%E9%92%88%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%20Doop%20%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
+
 ## tabby
 
 ### 项目简介
